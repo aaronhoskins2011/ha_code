@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="seat_geek_item_height">60dp</dimen>
+    <dimen name="seat_geek_item_margin_top">32dp</dimen>
+    <dimen name="seat_geek_item_img_margin_start">12dp</dimen>
+    <dimen name="seat_geek_item_info_margin_start">12dp</dimen>
+</resources>
